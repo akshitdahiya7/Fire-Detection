@@ -17,7 +17,7 @@ cap = cv2.VideoCapture(0)
 # Email configuration
 sender_email = "akshitdahiya1621@gmail.com"
 receiver_email = "akshitdahiya2116@gmail.com"
-password = "emmr qjwn jmgp npow "  # Use app-specific password if needed
+password = " "  # Use app-specific password if needed
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 
