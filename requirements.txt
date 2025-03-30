@@ -1,0 +1,5 @@
+ultralytics==8.0.216
+roboflow==1.1.27
+opencv-python==4.9.0.80
+email-validator==2.1.0.post1  
+ipython==8.22.2     
